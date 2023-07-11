@@ -12,6 +12,6 @@ Alfred keyword usage:
 
 ## Credits
 
-Credit to Jonny Greenwald for the HTTP Request and JSON AppleScript handlers
+This workflow uses the simple-applescript-http script library created by Jonny Greenwald
 
 http://github.com/jgreenwaldTYT/simple-applescript-http
