@@ -12,6 +12,6 @@ Alfred keyword usage:
 
 ## Credits
 
-This workflow uses the simple-applescript-http script library created by Jonny Greenwald
+This workflow uses the simple-applescript-http library created by Jonny Greenwald
 
 http://github.com/jgreenwaldTYT/simple-applescript-http
